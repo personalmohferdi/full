@@ -15,6 +15,7 @@
         #content { width: 100%; padding: 20px; min-height: 100vh; transition: all 0.3s; margin-left: 250px; }
         @media (max-width: 768px) { #content { margin-left: 0; } }
     </style>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     @stack('css')
 </head>
 <body>
